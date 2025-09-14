@@ -1,0 +1,5 @@
+name: LandsChatAdapter
+version: '1.0.0'
+main: com.wolfmc.plugin.landsChatAdapter.LandsChatAdapter
+api-version: '1.21'
+authors: [ MikkoAyaka ]
