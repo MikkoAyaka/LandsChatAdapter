@@ -18,7 +18,7 @@ repositories {
 dependencies {
     compileOnly("com.github.angeschossen:LandsAPI:-SNAPSHOT")
     compileOnly("io.papermc.paper:paper-api:1.21.4-R0.1-SNAPSHOT")
-    compileOnly(kotlin("stdlib"))
+    implementation(kotlin("stdlib"))
 }
 
 tasks {
